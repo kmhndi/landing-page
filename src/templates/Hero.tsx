@@ -30,7 +30,7 @@ const Hero = () => (
             <span className="text-primary-500">Reform</span>
           </>
         }
-        
+        description="The easiest way to build a React landing page in seconds."
         button={
           <Link href="instagram.com/brightfuture.qa">
             <Button xl>Bright Future Instagram</Button>
