@@ -28,7 +28,7 @@ const Hero = () => (
         }
         description="Reform"
         button={
-          <Link href="https://www.instagram.com/brightfuture.qa">
+          <Link href="">
             <Button xl>Bright Future Instagram</Button>
           </Link>
         }
