@@ -19,7 +19,7 @@ const Hero = () => (
     </Section>
 
     <Section yPadding="pt-20 pb-32">
-      <HeroOneButton
+      
         title={
           <>
             {'Reform Qatar\n'}
@@ -28,7 +28,7 @@ const Hero = () => (
         }
         description="The easiest way to build a React landing page in seconds."
         
-      />
+      
     </Section>
   </Background>
 );
