@@ -23,7 +23,7 @@ const Hero = () => (
         title={
           <>
             {'Welcome to\n'}
-            <span className="text-primary-500">React developers</span>
+            <span className="text-primary-500">rr</span>
           </>
         }
         description="Reform"
