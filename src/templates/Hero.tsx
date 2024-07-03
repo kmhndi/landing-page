@@ -22,11 +22,11 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The modern landing page for\n'}
+            {'Welcome to\n'}
             <span className="text-primary-500">React developers</span>
           </>
         }
-        description="The easiest way to build a React landing page in seconds."
+        description="Reform"
         button={
           <Link href="https://www.instagram.com/brightfuture.qa">
             <Button xl>Bright Future Instagram</Button>
